@@ -1,8 +1,8 @@
 # Data-Cleaning-With-SQL-Queries
 
-This project is about how data cleaning is done using SQL Queries.
+This project is about how data cleaning is done using SQL Queries, using the NashvilleHousing Dataset.
 
-#STEPS
+# STEPS
 
 1. Standardize the Date Format
 2. Populate property Address Data
